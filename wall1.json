@@ -1,0 +1,108 @@
+{"Categorys":[
+        
+              { "name" : "Cars" ,
+                "Photo" : "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" , 
+                "categoryURL" : "https://play.google.com/store/apps/details?id=com.WallpaperApp.CarWallpapersHD"} ,
+        
+              { "name" : "Nature" ,
+                "Photo" : "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" , 
+                "categoryURL" : "https://play.google.com/store/apps/details?id=com.ancientdevelopers.naturewallpaperz"} ,
+        
+              { "name" : "Babys" ,
+                "Photo" : "https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" , 
+                "categoryURL" : "https://play.google.com/store/apps/details?id=com.babywallpaper.cutebaby.beautiful.girls.babywallpaper"}, 
+         
+              { "name" : "Sky" ,
+                "Photo" : "https://images.pexels.com/photos/3289880/pexels-photo-3289880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" , 
+                "categoryURL" : "https://play.google.com/store/apps/details?id=com.NightSkyWallpaper.naturewallpaper.beautiful.image.background"},
+
+               { "name" : "Girls" ,
+                 "Photo" : "https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" , 
+                 "categoryURL" : "https://play.google.com/store/apps/details?id=com.beautifull.girlswallpaper.nice.girlspictures.sweetgirly.wallpapers"} 
+        
+       
+        
+        
+       ],
+        "Page1":[
+        
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}, 
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/8851043/pexels-photo-8851043.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},  
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/10489647/pexels-photo-10489647.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/8629618/pexels-photo-8629618.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/6149484/pexels-photo-6149484.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/6438760/pexels-photo-6438760.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/6942742/pexels-photo-6942742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+        { "src" : {"Img_Url":"https://images.pexels.com/photos/10050311/pexels-photo-10050311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}
+        
+       ],
+ "Page2":[
+        
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},  
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}
+        
+       ],
+ "Page3":[
+        
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},  
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}
+        
+       ],
+ "Page4":[
+        
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},  
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}},
+         { "src" : {"Img_Url":"https://images.pexels.com/photos/1381242/pexels-photo-1381242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}}
+        
+       ]
+ 
+}
