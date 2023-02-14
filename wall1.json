@@ -103,6 +103,21 @@
          { "src" : {"Img_Url":"https://images.pexels.com/photos/6787836/pexels-photo-6787836.jpeg?auto=compress&cs=tinysrgb&w=400"}},
          { "src" : {"Img_Url":"https://images.pexels.com/photos/9399676/pexels-photo-9399676.jpeg?auto=compress&cs=tinysrgb&w=400"}}
         
+       ],
+ "MayData":[
+        
+        "AdsCountroller":{ 
+       "Admob_Case":false,
+       "Admob_Banner":"ca-app-pub-1771986996100576/4509325101",
+       "Admob_Inter":"ca-app-pub-1771986996100576/5056120011",
+       
+       "Applovin_Case":true,
+       "Applovin_Banner":"671683d159be1913",
+       "Applovin_merc":"0bd5a4d74f25283e",
+       "Applovin_Inter":"ad95726e9c50fe24"
+    
+       }
+        
        ]
  
 }
