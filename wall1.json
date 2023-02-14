@@ -107,14 +107,10 @@
  "MayData":[
         
         "AdsCountroller":{ 
-       "Admob_Case":false,
-       "Admob_Banner":"ca-app-pub-1771986996100576/4509325101",
-       "Admob_Inter":"ca-app-pub-1771986996100576/5056120011",
-       
-       "Applovin_Case":true,
-       "Applovin_Banner":"671683d159be1913",
-       "Applovin_merc":"0bd5a4d74f25283e",
-       "Applovin_Inter":"ad95726e9c50fe24"
+       "Applovin_Banner":"afc106cac6c85186",
+       "Applovin_merc":"bca771f0dc0910ee",
+       "Applovin_native":"011dd046ee50c469",
+       "Applovin_Inter":"335804ed29f022ca"
     
        }
         
