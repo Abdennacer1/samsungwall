@@ -103,17 +103,23 @@
          { "src" : {"Img_Url":"https://images.pexels.com/photos/6787836/pexels-photo-6787836.jpeg?auto=compress&cs=tinysrgb&w=400"}},
          { "src" : {"Img_Url":"https://images.pexels.com/photos/9399676/pexels-photo-9399676.jpeg?auto=compress&cs=tinysrgb&w=400"}}
         
-       ],
- "MayData":[
-        
-        "AdsCountroller":{ 
+       ]
+}
+
+
+
+{"MayData":{
+  "AdsCountroller":{ 
+      
        "Applovin_Banner":"afc106cac6c85186",
        "Applovin_merc":"bca771f0dc0910ee",
        "Applovin_native":"011dd046ee50c469",
        "Applovin_Inter":"335804ed29f022ca"
     
-       }
-        
-       ]
- 
+    }
+    
+  }
 }
+
+
+
